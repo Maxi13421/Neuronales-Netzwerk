@@ -1,0 +1,1 @@
+data class Neuron (var Strings: DoubleArray, var Wert : Double, var Bias : Double)
